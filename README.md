@@ -52,7 +52,6 @@
 <a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
-<br/>
 
 <a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
