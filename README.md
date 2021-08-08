@@ -32,7 +32,7 @@
 </p>
 
 <br/>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 </p>
