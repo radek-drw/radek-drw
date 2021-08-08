@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radek</h1>
 <h3 align="center">I'm a passionate Front End Developer</h3>
 <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
-<a href="#"><img margin-right="0"  width="600px" height="220px" src="https://i.imgur.com/iXuL1HG.png"/></a>
+<a href="#"><img align="right" width="600px" height="220px" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
 ## 🙋‍♂️ About Me
 
