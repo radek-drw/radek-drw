@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radek</h1>
 <h3 align="center">I'm a passionate Front End Developer</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ## 🙋‍♂️ About Me
 
@@ -33,9 +32,11 @@
 </p>
 
 <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
 <p align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
 ## 📊 My Github Stats
