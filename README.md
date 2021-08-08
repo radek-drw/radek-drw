@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radek</h1>
 <h3 align="center">I'm a passionate Front End Developer</h3>
 
@@ -16,6 +14,8 @@
 - 📫 You can reach me on **rdrweski@gmail.com**
 
 - ⚡ Fun fact **I speak 4 languages ( English, Polish, Czech, Russian)**
+
+<a href="#"><img width="100%" height="auto" align="right" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## 🚀 Languages and Tools:
 
