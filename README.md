@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" height="auto" margin="0 auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radek</h1>
 <h3 align="center">I'm a passionate Front End Developer</h3>
@@ -42,11 +42,10 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=radek-drw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=radek-drw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-  <br/>
-
+<br/>
 <br/>
 <br/>
 
@@ -58,8 +57,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/radek-drw%C4%99ski-463509203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/radek0112"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/radek.drw/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
