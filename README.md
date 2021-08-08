@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radek</h1>
 <h3 align="center">I'm a passionate Front End Developer</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ## 🙋‍♂️ About Me
 
