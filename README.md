@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I speak 4 languages ( English, Polish, Czech, Russian)**
 
+<br/>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
