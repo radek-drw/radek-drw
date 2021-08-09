@@ -2,8 +2,8 @@
 <h3 align="center">I'm a passionate Front End Developer</h3>
 <p align="center">
     <a href="#"><img align="right" width="60%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-</p>
 
+    <p align="left">
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Eloquent JavaScript (book)](https://eloquentjavascript.net/)**
@@ -17,7 +17,8 @@
 - 📫 You can reach me on **rdrweski@gmail.com**
 
 - ⚡ Fun fact **I speak 4 languages ( English, Polish, Czech, Russian)**
-
+        </p>
+</p>
 <br/>
 
 ## 🚀 Languages and Tools:
