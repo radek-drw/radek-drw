@@ -3,7 +3,7 @@
 <p align="center">
     <a href="#"><img align="right" width="60%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<p align="left">
+<p align="left" border="2px solid #fff">
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Eloquent JavaScript (book)](https://eloquentjavascript.net/)**
