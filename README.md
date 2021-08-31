@@ -55,7 +55,7 @@
 
 <br/>
 
-## 🔗 Connect with me:
+## 🔗 Connect with me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/radek-drw%C4%99ski-463509203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
