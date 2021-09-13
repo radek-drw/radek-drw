@@ -4,7 +4,7 @@
     <a href="#"><img width="65%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </p>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About
 
 - 🔭 I’m currently working on **[Eloquent JavaScript (book)](https://eloquentjavascript.net/)**
 
