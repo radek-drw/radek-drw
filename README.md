@@ -38,18 +38,18 @@
 
 ## 📊 My Github Stats:
 
-<a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&bg_color=transparent&hide_border=true" />
+<a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&theme=vue-dark&hide_border=true" />
 </a>
 
 <br/>
 
-<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&bg_color=transparent&color=0969da&line=add7ff&point=cc205e&hide_border=true" /></a>
+<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&theme=material-palenight&hide_border=true" /></a>
 
 <br/>
 
 <p align="center">
     <a href="https://github.com/radek-drw/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Radek Drweski's streak" src="http://github-readme-streak-stats.herokuapp.com?user=radek-drw&bg_color=transparent&theme=vue&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Radek Drweski's streak" src="http://github-readme-streak-stats.herokuapp.com?user=radek-drw&&theme=discord_old_blurple&hide_border=true"/>
     </a>
 </p>
 
