@@ -4,7 +4,7 @@
     <a href="#"><img width="65%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </p>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working on **[Eloquent JavaScript (book)](https://eloquentjavascript.net/)**
 
@@ -42,7 +42,7 @@
 
 <br/>
 
-<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&bg_color=rgb(0, 0, 0, 0.2)&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&bg_color=c9e3ff&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!-- 0D1117 background -->
 <!-- 5BCDEC font-color -->
 
