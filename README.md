@@ -42,7 +42,7 @@
 
 <br/>
 
-<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&bg_color=transparent&color=0969da&line=add7ff&point=0e59af&hide_border=true" /></a>
+<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&bg_color=transparent&color=0969da&line=add7ff&point=0969da&hide_border=true" /></a>
 <!-- 0D1117 background -->
 <!-- 5BCDEC font-color -->
 <!-- FFFFFF point -->
