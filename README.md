@@ -38,8 +38,9 @@
 
 ## 📊 My Github Stats:
 
-<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&bg_color=transparent&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<!-- 0D1117 -->
+<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&bg_color=transparent&color=41d3fc&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- 0D1117 background -->
+<!-- 5BCDEC font-color -->
 
 <br/>
 
