@@ -50,7 +50,7 @@
 <!-- STREAK STATS -->
 <p align="center">
     <a href="https://github.com/radek-drw/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Radek Drweski's streak" src="http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=synthwave&hide_border=true"/>
+    <img alt="Radek Drweski's streak" src="http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=synthwave&hide_border=true"/>
     </a>
 </p>
 
