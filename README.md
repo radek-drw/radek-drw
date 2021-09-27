@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **[Eloquent JavaScript (book)](https://eloquentjavascript.net/)**
+- 🔭 I’m currently working on **[CSS & JavaScript - Advanced Projects](https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/learn/lecture/16286908#notes)**
 
 - 🌱 I’m currently learning **Node.js and React.js**
 
