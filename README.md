@@ -30,7 +30,7 @@
     <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://greensock.com/gsap/"> <img src="https://michaelakintomo.com/static/gsap_icon-407caaf460c08abf4e723346076bf8cb.png" width="48" height="48"/> </a> 
-    <a href="https://mongodb.com/"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> alt="mongodb"/> </a>  
+    <a href="https://mongodb.com/"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>  
     <a href="https://mysql.com/"> <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
