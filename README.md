@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[CSS & JavaScript - Advanced Projects](https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/learn/lecture/16286908#notes)**
 
-- 🌱 I’m currently learning **Node.js and React.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
