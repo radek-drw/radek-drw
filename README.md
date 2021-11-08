@@ -23,15 +23,15 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://greensock.com/gsap/"> <img src="https://www.michaelakintomo.com/static/gsap_icon-407caaf460c08abf4e723346076bf8cb.png" width="48" height="48"/> </a> 
-    <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"            alt="mongodb" width="48" height="48"/> </a>  
-    <a style="padding-right:8px;" href="https://www.mysql.com/"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://greensock.com/gsap/"> <img src="https://michaelakintomo.com/static/gsap_icon-407caaf460c08abf4e723346076bf8cb.png" width="48" height="48"/> </a> 
+    <a href="https://mongodb.com/"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> alt="mongodb"/> </a>  
+    <a href="https://mysql.com/"> <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a href="https://www.google.com/intl/pl/chrome/"> <img src="https://img.icons8.com/color/48/000000/chrome.png"/> </a>
