@@ -42,6 +42,7 @@
 <br/>
 
 ## 📊 My Github Stats:
+
 <!-- TOP LANGUAGES -->
 <a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&theme=vue-dark&hide_border=true" />
 </a>
