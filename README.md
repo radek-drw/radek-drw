@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **[CSS & JavaScript - Advanced Projects](https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/learn/lecture/16286908#notes)**
+- 🔭 I’m currently working on **[ToDo App - Create React App](https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/learn/lecture/16286908#notes)**
 
 - 🌱 I’m currently learning **Create React App - React.js**
 
