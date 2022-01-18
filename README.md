@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[ToDo App - Create React App](https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/learn/lecture/16286908#notes)**
 
-- 🌱 I’m currently learning **Create React App - React.js**
+- 🌱 I’m currently learning **React Router**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
