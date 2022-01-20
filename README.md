@@ -16,7 +16,7 @@
 
 - 📫 You can reach me on **rdrweski@gmail.com**
 
-- ⚡ Fun fact **I speak 4 languages ( English, Polish, Czech, Russian)**
+- ⚡ Fun fact **I speak 4 languages ( English, Polish, Czech)**
 
 <br/>
 
