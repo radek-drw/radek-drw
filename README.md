@@ -50,7 +50,9 @@
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&theme=material-palenight&hide_border=true" /></a>
+<a href="https://github.com/radek-drw/github-readme-activity-graph">
+    <img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&theme=material-palenight&hide_border=true" />
+</a>
 
 <br/>
 <br/>
