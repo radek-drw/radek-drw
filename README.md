@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **[ToDo App - Create React App](https://www.udemy.com/course/zaawansowane-projekty-w-css-i-javascript/learn/lecture/16286908#notes)**
+- 🔭 I’m currently working on **[Portfolio](https://radek-drw.github.io/Portfolio/)**
 
 - 🌱 I’m currently learning **React Router**
 
@@ -16,7 +16,7 @@
 
 - 📫 You can reach me on **rdrweski@gmail.com**
 
-- ⚡ Fun fact **I speak 4 languages ( English, Polish, Czech)**
+- ⚡ Fun fact **I speak 3 languages ( English, Polish, Czech)**
 
 <br/>
 
