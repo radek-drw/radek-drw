@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Portfolio](https://radek-drw.github.io/Portfolio/)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Webpack**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
