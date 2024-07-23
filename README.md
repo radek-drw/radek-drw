@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **[Portfolio](https://radek-drw.github.io/Portfolio/)**
+- 🔭 I’m currently working on **[React Weather app](https://radek-drw.github.io/Portfolio/)**
 
 - 🌱 I’m currently learning **React, Webpack, TypeScript**
 
