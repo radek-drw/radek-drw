@@ -29,8 +29,8 @@
     <a href="https://www.typescriptlang.org/"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
     <a href="https://jestjs.io/"> <img src="https://img.icons8.com/color/48/000000/jest.png"/> </a>
     <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.php.net/"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a>
-    <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.php.net/"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></a>
+    <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a href="https://webpack.js.org/"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> </a>
