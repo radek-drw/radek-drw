@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **[React Weather app](https://radek-drw.github.io/Portfolio/)**
+- 🔭 I’m currently working on **[React Weather app](https://radek-drw.github.io/weather-app/)**
 
-- 🌱 I’m currently learning **React, Webpack, TypeScript**
+- 🌱 I’m currently learning **React, TypeScript, Jest**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,6 @@
 
 - 📫 You can reach me on **rdrweski@gmail.com**
 
-- ⚡ Fun fact **I speak 3 languages ( English, Polish, Czech)**
 
 <br/>
 
@@ -27,14 +26,13 @@
     <a href="https://w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://www.typescriptlang.org/"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
+    <a href="https://jestjs.io/"> <img src="https://img.icons8.com/color/48/000000/jest.png"/> </a>
     <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://www.php.net/"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a>
     <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://greensock.com/gsap/"> <img src="https://michaelakintomo.com/static/gsap_icon-407caaf460c08abf4e723346076bf8cb.png" width="48" height="48"/> </a> 
-    <a href="https://mongodb.com/"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>  
-    <a href="https://mysql.com/"> <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
-    <a href="https://www.google.com/intl/pl/chrome/"> <img src="https://img.icons8.com/color/48/000000/chrome.png"/> </a>
     <a href="https://webpack.js.org/"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> </a>
     <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
 </p>
