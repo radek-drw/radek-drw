@@ -4,7 +4,7 @@
     <a href="#"><img width="65%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </p>
 
-## 🙋‍♂️ About Me:
+## 👨 About Me:
 
 - 🔭 I’m currently working on **[React Weather app](https://radek-drw.github.io/weather-app/)**
 
@@ -19,6 +19,7 @@
 
 <br/>
 
+<!-- TOP LANGUAGES -->
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -39,18 +40,16 @@
 
 <br/>
 
+<!-- STATS -->
 ## 📊 My Github Stats:
 
-<!-- TOP LANGUAGES -->
 <a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&theme=vue-dark&hide_border=true" />
 </a>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/radek-drw/github-readme-activity-graph">
-    <img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&theme=material-palenight&hide_border=true" />
-</a>
+<a href="https://github.com/radek-drw/github-readme-activity-graph"><img alt="Radek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=radek-drw&theme=material-palenight&hide_border=true" /></a>
 
 <br/>
 <br/>
