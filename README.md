@@ -63,6 +63,7 @@
 <p align="center">
     <a href="https://github.com/radek-drw/github-readme-streak-stats">
     <img alt="Radek Drweski's streak" src="http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=synthwave&hide_border=true"/>
+        [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </a>
 </p>
 
