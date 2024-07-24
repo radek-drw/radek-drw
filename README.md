@@ -53,7 +53,7 @@
 
 <!-- ACTIVITY GRAPH -->
 <a href="https://github.com/radek-drw/github-readme-activity-graph">
-    <img href="https://github-readme-activity-graph.vercel.app/graph?username=radek-drw&theme=material-palenight&hide_border=true" />
+    <img href="https://github-readme-activity-graph.vercel.app/graph?username=radek-drw />
 </a>
 
 <br/>
@@ -62,8 +62,7 @@
 <!-- STREAK STATS -->
 <p align="center">
     <a href="https://github.com/radek-drw/github-readme-streak-stats">
-    <img alt="Radek Drweski's streak" src="http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=synthwave&hide_border=true"/>
-        [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+        <img alt="Radek Drweski's streak" src="http://github-readme-streak-stats.herokuapp.com?user=radek-drw&theme=synthwave&hide_border=true"/>
     </a>
 </p>
 
