@@ -43,13 +43,14 @@
 <!-- STATS -->
 ## 📊 My Github Stats:
 
-<a href="https://github.com/radek-drw/github-readme-stats"><img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&theme=vue-dark&hide_border=true" />
+<a href="https://github.com/radek-drw/github-readme-stats">
+    <img alt="Radek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radek-drw&langs_count=8&count_private=true&layout=compact&theme=vue-dark&hide_border=true" />
 </a>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=radek-drw&theme=material-palenight&hide_border=true" />radel</a>
+<img href="https://github-readme-activity-graph.vercel.app/graph?username=radek-drw&theme=material-palenight&hide_border=true" />
 
 <br/>
 <br/>
