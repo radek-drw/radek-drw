@@ -52,8 +52,8 @@
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/radek-drw/github-readme-graph">
-    <img href="https://github-readme-activity-graph.vercel.app/graph?username=radek-drw&theme=material-palenight&hide_border=true" />sdffsdf
+<a href="https://github.com/radek-drw/github-readme-activity-graph">
+    <img href="https://github-readme-activity-graph.vercel.app/graph?username=radek-drw&theme=material-palenight&hide_border=true" />
 </a>
 
 <br/>
