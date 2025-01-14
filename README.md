@@ -6,9 +6,9 @@
 
 ## 👨 About Me:
 
-- 🔭 I’m currently working on **[React Weather app](https://radek-drw.github.io/weather-app/)**
+- 🔭 I’m currently working on **[Car Sport Point](https://radek-drw.github.io/carsportpoint/)**
 
-- 🌱 I’m currently learning **React, TypeScript, Jest**
+- 🌱 I’m currently learning **React, TypeScript, Node.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
