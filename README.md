@@ -26,17 +26,24 @@
     <a href="https://w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
     <a href="https://w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+    <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/></a> 
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+    <a href="https://tailwindcss.com/"> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/></a>
     <a href="https://www.typescriptlang.org/"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
     <a href="https://jestjs.io/"> <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="38" height="38"/></a>
     <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a href="https://www.php.net/"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></a>
+    <a href="https://jquery.com/"> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a>
     <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
-    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
-    <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/></a> 
     <a href="https://webpack.js.org/"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/></a>
+    <a href="https://wordpress.com/"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
+    <a href="https://www.figma.com/"> <img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
+    <a href="https://www.adobe.com/products/photoshop.html"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/></a>
+    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
     <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 </p>
+
+
 
 <br/>
 
