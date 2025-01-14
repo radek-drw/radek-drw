@@ -34,7 +34,7 @@
     <a href="https://jestjs.io/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Jest_Logo_Pink.svg" width="38" height="38"/></a>
     <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a href="https://www.php.net/"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></a>
-    <a href="https://jquery.com/"> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a>
+    <a href="https://jquery.com/"> <img src="https://img.icons8.com/fluency/48/000000/jquery.png"/></a>
     <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
     <a href="https://webpack.js.org/"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/></a>
     <a href="https://wordpress.com/"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
