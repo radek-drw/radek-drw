@@ -30,7 +30,7 @@
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://tailwindcss.com/"> <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png"/></a>
     <a href="https://www.typescriptlang.org/"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-    <a href="https://jestjs.io/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Jest_Logo_Pink.svg" width="38" height="38"/></a>
+    <a href="https://jestjs.io/"> <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png"/></a>
     <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a href="https://www.php.net/"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></a>
     <a href="https://jquery.com/"> <img src="https://img.icons8.com/fluency/48/000000/jquery.png"/></a>
