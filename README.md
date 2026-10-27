@@ -1,53 +1,64 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radek</h1>
-<h3 align="center">I'm a passionate Front End Developer</h3>
+<h1 align="center">Hi, I'm Radek👋</h1>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center">
     <a href="#"><img width="65%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </p>
 
 ## 👨 About Me:
 
-- 🔭 I’m currently working on **[Car Sport Point](https://radek-drw.github.io/carsportpoint/)**
-
-- 🌱 I’m currently learning **React, TypeScript, Node.js**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/radek-drw?tab=repositories)**
-
-- 📫 You can reach me on **rdrweski@gmail.com**
-
+- 💻 I build web applications using React and Node.js
+- ☁️ I work with AWS and Terraform to build and manage cloud infrastructure
+- ⚙️ I use GitHub Actions to automate CI/CD pipelines and deployments
+- 🔭 I’m currently working on **[Car Sport Point](https://master.d15pql8ca0vxrn.amplifyapp.com/)**
+- 🌐 Check out my **[portfolio](https://github.com/radek-drw?tab=repositories)** to see my projects
+- 📫 Reach me at **rdrweski@gmail.com**
 
 <br/>
 
 <!-- TOP LANGUAGES -->
+
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+### Frontend:
+
+<p align="left">
+    <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+    <a href="https://www.typescriptlang.org/"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+    <a href="https://jquery.com/"> <img src="https://img.icons8.com/?size=48&id=9Um0Q4sZ0QCC&format=png"/></a>
     <a href="https://w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
     <a href="https://w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
-    <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/></a> 
-    <a href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://tailwindcss.com/"> <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png"/></a>
-    <a href="https://www.typescriptlang.org/"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-    <a href="https://jestjs.io/"> <img src="https://img.icons8.com/?size=48&id=bp24DwGXJDyT&format=png"/></a>
-    <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-    <a href="https://www.php.net/"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></a>
-    <a href="https://jquery.com/"> <img src="https://img.icons8.com/?size=48&id=9Um0Q4sZ0QCC&format=png"/></a>
-    <a href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
+    <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
     <a href="https://webpack.js.org/"> <img src="https://img.icons8.com/color/48/000000/webpack.png"/></a>
-    <a href="https://wordpress.com/"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/></a>
-    <a href="https://www.figma.com/"> <img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-    <a href="https://www.adobe.com/products/photoshop.html"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/></a>
-    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
-    <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 </p>
 
+### Backend:
 
+<p align="left"> 
+    <a href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+</p>
+
+### Cloud & DevOps:
+
+<p align="left"> 
+    <a href="https://aws.amazon.com/"> <img src="https://img.icons8.com/?size=48&id=33039&format=png&color=000000"/></a>
+    <a href="https://aws.amazon.com/"> <img src="https://img.icons8.com/?size=48&id=kEkT1u7zTDk5&format=png&color=000000"/></a>
+    <a href="https://aws.amazon.com/"> <img src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png&color=000000"/></a>
+</p>
+
+### Tools:
+
+<a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a href="https://www.figma.com/"> <img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
+<a href="https://jestjs.io/"> <img src="https://img.icons8.com/?size=48&id=bp24DwGXJDyT&format=png"/></a>
+<a href="https://www.adobe.com/products/photoshop.html"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/></a>
 
 <br/>
 
 <!-- STATS -->
+
 ## 📊 My Github Stats:
 
 <p align="center">
